@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorldBuilding/Untitled.md",
+                "file": "world/terain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "terain"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorldBuilding/Untitled.md",
+                "file": "base.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for base"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorldBuilding/Untitled.md",
+                "file": "base.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from base"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorldBuilding/Untitled.md",
+                "file": "base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of base"
             }
           }
         ]
@@ -171,7 +171,11 @@
   },
   "active": "32be2218b7a873f7",
   "lastOpenFiles": [
-    "Untitled.base",
+    "world/climate.md",
+    "world/terain.md",
+    "WorldBuilding/Untitled.md",
+    "base.base",
+    "world",
     "Untitled 1.base"
   ]
 }
