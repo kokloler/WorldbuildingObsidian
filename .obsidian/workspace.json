@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "b7cfe3be13cb9020",
+    "id": "7c453b55e9becbdf",
     "type": "split",
     "children": [
       {
-        "id": "4e3d1fd1c96fce2e",
+        "id": "0426482e28b983c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7088a902741fcd0d",
+            "id": "32be2218b7a873f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testest.md",
+                "file": "WorldBuilding/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testest"
+              "title": "Untitled"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a8f2d4930dbab818",
+    "id": "a6d693f03374ba1d",
     "type": "split",
     "children": [
       {
-        "id": "5b2d8bffac293bbc",
+        "id": "9de88bd425cf423d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7a6b32d3f24448",
+            "id": "bca3ad15853d58d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "80e1493387558220",
+            "id": "cd9d5e68cd3955dc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "66de949fbba49e4c",
+            "id": "f0722bd9bf97258c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "18ab360aa349aa2f",
+    "id": "41f07ad8de99a43f",
     "type": "split",
     "children": [
       {
-        "id": "0208e339dfc5525d",
+        "id": "16ac394e1bc5e992",
         "type": "tabs",
         "children": [
           {
-            "id": "efcaabfa3828aa3a",
+            "id": "59177ef2f121b1bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testest.md",
+                "file": "WorldBuilding/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for testest"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "5f3a1af85c983f40",
+            "id": "63488cbe156cc125",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testest.md",
+                "file": "WorldBuilding/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testest"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "c547eb91f1a7edff",
+            "id": "5f23b1a64bf525d3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "8095bc33823d1248",
+            "id": "2889d821d8727411",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "testest.md",
+                "file": "WorldBuilding/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testest"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -169,9 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "7088a902741fcd0d",
+  "active": "32be2218b7a873f7",
   "lastOpenFiles": [
-    "WorldBuilding/Untitled.md",
-    "testest.md"
+    "Untitled.base",
+    "Untitled 1.base"
   ]
 }
